@@ -1,0 +1,4 @@
+sout + tab me sirve para imprimir pantalla
+
+Char a = '1' solo un caracter
+String b = "mauricio"
